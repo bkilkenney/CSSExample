@@ -1,2 +1,14 @@
 ﻿body {
+    background:border-box;
+    background-color: coral;
+}
+
+p{
+    color:aqua;
+    font-family:Calibri;
+}
+
+.thisIsAClass {
+    color:darkgreen;
+
 }
