@@ -1,14 +1,17 @@
 ﻿body {
-    background:border-box;
-    background-color: coral;
+    font-family:Verdana;
+    color:blue;    
+    text-align:center;
 }
+
 
 p{
-    color:aqua;
-    font-family:Calibri;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.thisIsAClass {
-    color:darkgreen;
-
+.firstParagraph
+{
+    font-family: open sans-serif;
+    font-size:x-large;
 }
+
